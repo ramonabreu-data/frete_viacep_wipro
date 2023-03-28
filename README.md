@@ -4,12 +4,12 @@ API desenvolvida com Java11,SpringBoot 2.7 , Junit5 , Swagger2 .
 Consumindo o serviço do ViaCep(https://viacep.com.br/)
 
 
-## Serviço em produção AWS
+## Serviço em produção RAILWAY
 
 ```
-Consulta:
+ENDPOINT para Consulta:
 
-# http://ec2-54-94-133-163.sa-east-1.compute.amazonaws.com:8080/consulta-cep/64017-280
+# https://freteviacepwipro-production.up.railway.app/consulta-cep/64017-280
 
 
 
